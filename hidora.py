@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import sys, os, time, socket, HTTPError
+import sys, os, time, socket
 
 # Restart Hidora
 def restart():
